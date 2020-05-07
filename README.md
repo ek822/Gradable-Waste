@@ -1,2 +1,5 @@
-# Gradable-Waste
-FemmeHacks 2020 (worked with jessicaxjiang &amp; cate178)
+"# gradablewaste 
+
+link to website: https://jessicaxjiang.github.io/gradablewaste/index.html
+
+devpost information: https://devpost.com/software/gradablewaste
